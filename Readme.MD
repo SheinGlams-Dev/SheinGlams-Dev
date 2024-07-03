@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/SheinDev"><img title="Author" src="https://img.shields.io/badge/Chlle-XanDev-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/SheinDev"><img title="Author" src="https://img.shields.io/badge/Shein-Dev-blue.svg?style=for-the-badge&logo=github"></a>
 
 ## ```Spotify Music``` 🎵
 
@@ -65,7 +65,7 @@ I'm currently learning:
 
 --------
 ## Connect With Me 💌
-  <a href="https://wa.me/6281289682492">
+  <a href="https://wa.me/6282219756899">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/rifkyekaxyz">
