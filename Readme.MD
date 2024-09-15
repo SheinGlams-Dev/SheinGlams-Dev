@@ -21,12 +21,6 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/932817217614118943.png" />
 </a>
 
-### Contact me: 
-
-[<img align="left" alt="YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://www.youtube.com/channel/UCehQMGUaFgzKZ8RoNT-Oc0w)
-
-</br>
-
 ### Languages and Tools:
 <p align="left">
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
