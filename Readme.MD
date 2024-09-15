@@ -91,11 +91,6 @@ I'm currently learning:
 * Name: SheinDev
 ```
 
----
-
-## ```Whatsapp``` <a href="https://wa.me/6282219756899"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![Developer](https://img.shields.io/badge/Developer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282219756899) 
-
 ---------
 
 ## ```Status 🐾```
